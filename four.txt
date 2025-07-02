@@ -1,2 +1,3 @@
 content for four.txt
 change
+line 3
